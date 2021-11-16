@@ -1,0 +1,46 @@
+body {
+  background: url("https://httl.com.vn/wp-content/uploads/2021/06/background-dep.jpg")
+    no-repeat;
+  background-size: 100%;
+}
+.wrapper {
+  background-color: #fff;
+}
+ul.admincp_list {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+ul.admincp_list li {
+  float: left;
+  margin: 5px;
+}
+.clear {
+  clear: both;
+}
+h3.title_admin {
+  text-align: center;
+  font-size: 40px;
+  color: blue;
+}
+.wrapper {
+  border: 1px solid #000;
+  height: auto;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.active {
+  border-right: 1px solid #000;
+  text-decoration: none;
+  padding: 0 10px;
+  color: #ff8c00;
+}
+
+a {
+  text-decoration: none;
+}
+
+.colu {
+  width: 180px;
+}
